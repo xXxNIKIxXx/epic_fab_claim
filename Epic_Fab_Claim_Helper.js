@@ -3,12 +3,12 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.3
 // @description  Automatically collects and claims Fab.com listings, removing .jpg images from the page.
-// @author       xXx_NIKI_xXx
+// @author       xXxNIKIxXx
 // @match        https://www.fab.com/*
 // @grant        none
 // @icon         https://www.fab.com/favicon.ico
-// @updateURL    https://raw.githubusercontent.com/xXx-NIKI-xXx/Epic_Fab_Claim_Helper/main/Epic_Fab_Claim_Helper.js
-// @downloadURL  https://raw.githubusercontent.com/xXx-NIKI-xXx/Epic_Fab_Claim_Helper/main/Epic_Fab_Claim_Helper.js
+// @updateURL    https://raw.githubusercontent.com/xXxNIKIxXx/epic_fab_claim/refs/heads/main/Epic_Fab_Claim_Helper.js
+// @downloadURL  https://raw.githubusercontent.com/xXxNIKIxXx/epic_fab_claim/refs/heads/main/Epic_Fab_Claim_Helper.js
 // ==/UserScript==
 
 (function() {
